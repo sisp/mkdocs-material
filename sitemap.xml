@@ -206,6 +206,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/</loc>
+         <lastmod>2023-04-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://squidfunk.github.io/mkdocs-material/setup/adding-a-comment-system/</loc>
          <lastmod>2023-04-07</lastmod>
          <changefreq>daily</changefreq>
